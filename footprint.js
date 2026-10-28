@@ -38,7 +38,7 @@ const countryPhotoData = [
   {
     name: 'New Zealand',
     src: 'assets/footprint-new-zealand.jpg',
-    video: 'assets/ZaqyThunderWarrior.mp4',
+    video: 'assets/Zaqythunderwarrior.mp4',
     videoTitle: 'SMS Zaqy with us in Ex THUNDER WARRIOR'
   },
   {
